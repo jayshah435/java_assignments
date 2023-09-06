@@ -7,7 +7,7 @@ import java.util.Scanner;
 /*Write a program in Java to input 5 numbers from keyboard and find their sum and
 average using for loop.*/
 
-public class assignment_five {
+public class AssignmentFive {
 	public static void main(String[] args) {
 		try {
 			int num;
@@ -30,7 +30,7 @@ public class assignment_five {
 			System.out.println("Total Sum: "+total);
 			System.out.println("Average: "+avg);
 		} catch (InputMismatchException e) {
-			System.out.println("InputMismatchException Found. Please Provde Integer values");
+			System.out.println("InputMismatchException Found. Please Provide Integer values");
 		}
 	}
 }

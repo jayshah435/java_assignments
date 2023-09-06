@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 //Write a Java program to Take three numbers from the user and print the greatest number.
 
-public class assignment_One {
+public class AssignmentOne {
 	public static void main(String[] args) {
 		try {
 			int num1,num2,num3;

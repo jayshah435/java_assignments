@@ -6,7 +6,7 @@ import java.util.Scanner;
 /*Write a Java program that takes a year from user and print whether that year is a leap
 year or not.*/
 
-public class assignment_three {
+public class AssignmentThree {
 	public static void main(String[] args) {
 		try {
 			int year;

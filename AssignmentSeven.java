@@ -11,7 +11,7 @@ increased by 1 The pattern like:
 4 5 6
 7 8 9 10 */
 
-public class assignment_seven {
+public class AssignmentSeven {
 	public static void main(String[] args) {
 		try {
 			int num;
@@ -30,7 +30,7 @@ public class assignment_seven {
 			}
 			
 		} catch (InputMismatchException e) {
-			System.out.println("InputMismatchException Found. Please Provde Integer values");
+			System.out.println("InputMismatchException Found. Please Provide Integer values");
 		}
 	}
 }

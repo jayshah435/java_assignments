@@ -10,7 +10,7 @@ import java.util.Scanner;
 1234
 12345 */
 
-public class assignment_six {
+public class AssignmentSix {
 	public static void main(String[] args) {
 		try {
 			int num;
@@ -31,7 +31,7 @@ public class assignment_six {
 			}
 			
 		} catch (InputMismatchException e) {
-			System.out.println("InputMismatchException Found. Please Provde Integer values");
+			System.out.println("InputMismatchException Found. Please Provide Integer values");
 		}
 	}
 }

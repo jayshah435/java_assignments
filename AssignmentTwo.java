@@ -8,7 +8,7 @@ alphabet. Print Vowel or Consonant, depending on the user input. If the user inp
 is not a letter (between a and z or A and Z), or is a string of length > 1, print an error
 message. */
 
-public class assignment_two {
+public class AssignmentTwo {
 	public static void main(String[] args) {
 		String[] vowels = {"a","e","i","o","u","A","E","I","O","U"};
 		
